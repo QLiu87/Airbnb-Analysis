@@ -16,7 +16,6 @@ coverage
 build
 
 # large files
-*.csv
 
 # reappearing file
 */madrid.json
