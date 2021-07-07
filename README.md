@@ -1,7 +1,7 @@
 # cs180project-022-airbnb-team
 cs180project-022-airbnb-team created by GitHub Classroom
 Airbnb Analysis
-
+Contributors: Qi Liu, Ruth Navarrete, koe441864396, Vivian Tsai, yxie054
 ## Requirements
 * npm , Node.js -- install from [here](https://nodejs.org/en/download/)
 * python, pip -- install from [here](https://www.python.org/downloads/)
